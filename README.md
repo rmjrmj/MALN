@@ -2,8 +2,6 @@
 
 The project contains the source code of the TCSVT submitted paper "MALN: Multimodal adversarial learning network for conversational emotion recognition". The paper introduces a novel architecture for emotional recognition in conversation.
 
-Since the manuscript is still in the review stage, we only provide the main part of the model (including the model architecture and the training, evaluation process). After the paper is accepted, we will reorganize and open source all the codes in this project.
-
 We implement the MALN in PyTorch platform and all experiments are conducted on a server with one GTX 1080Ti GPU.
 
 # Requirements
