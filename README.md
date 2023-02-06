@@ -7,7 +7,7 @@ Since the manuscript is still in the review stage, we only provide the main part
 We implement the MALN in PyTorch platform and all experiments are conducted on a server with one GTX 1080Ti GPU.
 
 # Requirements
-tqdm == 4.64.0
+tqdm == 4.64.0 \
 requests == 2.26.0
 opencv-python == 4.2.0.34
 scikit-learn == 0.19.1
