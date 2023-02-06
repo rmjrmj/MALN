@@ -23,4 +23,4 @@ pandas == 0.23.4
 Models and generated features will be saved after the training process.
 
 Citation
-After the paper is accepted, we will add the citation information.
+After the paper is accepted, we will add the citation information. Please cite our paper if you find our work useful for your research:
