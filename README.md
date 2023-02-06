@@ -13,7 +13,7 @@ opencv-python == 4.2.0.34 \
 scikit-learn == 0.19.1 \
 torch == 1.7.1+cu101 \
 torchvision == 0.8.2+cu101 \
-pandas == 0.23.4 \
+pandas == 0.23.4
 
 # Training and Evaluation
 1. Download data features (IEMOCAP and MELD) from the link: https://github.com/declare-lab/conv-emotion and save the dialogue features to the folder "Features".
