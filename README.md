@@ -8,7 +8,7 @@ The architecture of MALN is shown as follows:
 ![](https://github.com/rmjrmj/MALN/blob/main/architecture.jpg)
 
 
-We implement the MALN in PyTorch platform and all experiments are conducted on a server with one GTX 1080Ti GPU.
+We implement MALN in PyTorch platform and all experiments are conducted on a server with one GTX 1080Ti GPU.
 
 # Requirements
 tqdm == 4.64.0 \
