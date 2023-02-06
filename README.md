@@ -6,6 +6,7 @@ In this work, we aim to tackle two challenges existing in the multimodal ERC tas
 
 
 
+
 We implement the MALN in PyTorch platform and all experiments are conducted on a server with one GTX 1080Ti GPU.
 
 # Requirements
